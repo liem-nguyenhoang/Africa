@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4F1E816A-E4C6-40D8-BBFE-817095B1F5EE</string>
 		</dict>
+		<key>9622006F-59E0-4989-B04D-98A1526E3D3D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9622006F-59E0-4989-B04D-98A1526E3D3D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Africa project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Africa</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Africa</string>
+			<key>timeStartedRecording</key>
+			<real>670493341.48475301</real>
+			<key>timeStoppedRecording</key>
+			<real>670496251.01720202</real>
+			<key>title</key>
+			<string>Run Africa</string>
+			<key>uniqueIdentifier</key>
+			<string>9622006F-59E0-4989-B04D-98A1526E3D3D</string>
+		</dict>
 		<key>FA865168-388B-4CC2-970F-18C96D16E769</key>
 		<dict>
 			<key>className</key>
