@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e27c25931c8815833c4e8beec03f8bd63843f580ecd4bb345ae769e0a6f12ed3"
+    }
+  ],
+  "containerPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/Africa.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData/Africa/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData/Africa/Index/Build/Products",
+      "derivedDataPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData/Africa/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData/Africa/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData/Africa/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/liemnh2/Desktop/Learn/iOS/fpt-software.udemy.com_SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5/SWIFTUI-APP-AFRICA-UPDATED/Students/Africa/DerivedData/Africa/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
