@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>09064920-4CAA-43D6-BC76-7FDF9EE8A6FB</key>
+		<key>01D78E4D-745C-4C70-AD1D-19368E7E0ABD</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>09064920-4CAA-43D6-BC76-7FDF9EE8A6FB.xcactivitylog</string>
+			<string>01D78E4D-745C-4C70-AD1D-19368E7E0ABD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run Africa</string>
 			<key>timeStartedRecording</key>
-			<real>670500467.37023604</real>
+			<real>670503214.98221695</real>
 			<key>timeStoppedRecording</key>
-			<real>670500487.86622405</real>
+			<real>670503252.97308803</real>
 			<key>title</key>
 			<string>Run Africa</string>
 			<key>uniqueIdentifier</key>
-			<string>09064920-4CAA-43D6-BC76-7FDF9EE8A6FB</string>
+			<string>01D78E4D-745C-4C70-AD1D-19368E7E0ABD</string>
 		</dict>
-		<key>7C97F5A1-2739-438F-8187-2F0B19436466</key>
+		<key>761194F1-B58F-416A-8B66-33AAE2791D2D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7C97F5A1-2739-438F-8187-2F0B19436466.xcactivitylog</string>
+			<string>761194F1-B58F-416A-8B66-33AAE2791D2D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,47 +66,13 @@
 			<key>signature</key>
 			<string>Run Africa</string>
 			<key>timeStartedRecording</key>
-			<real>670500427.68782103</real>
+			<real>670500489.83942199</real>
 			<key>timeStoppedRecording</key>
-			<real>670500465.60094404</real>
+			<real>670500865.78214002</real>
 			<key>title</key>
 			<string>Run Africa</string>
 			<key>uniqueIdentifier</key>
-			<string>7C97F5A1-2739-438F-8187-2F0B19436466</string>
-		</dict>
-		<key>7EB6E3C3-D28F-46F1-84BE-7FB60379C488</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>7EB6E3C3-D28F-46F1-84BE-7FB60379C488.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Africa project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Africa</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Africa</string>
-			<key>timeStartedRecording</key>
-			<real>670498324.74744594</real>
-			<key>timeStoppedRecording</key>
-			<real>670498884.03864098</real>
-			<key>title</key>
-			<string>Run Africa</string>
-			<key>uniqueIdentifier</key>
-			<string>7EB6E3C3-D28F-46F1-84BE-7FB60379C488</string>
+			<string>761194F1-B58F-416A-8B66-33AAE2791D2D</string>
 		</dict>
 	</dict>
 </dict>
