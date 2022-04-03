@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>6D6BC5AA-8F78-4FBC-98CA-50DE3D1AECB0</key>
+		<key>647FC126-3E90-4074-B62A-3B4FF8786AE4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>6D6BC5AA-8F78-4FBC-98CA-50DE3D1AECB0.xcactivitylog</string>
+			<string>647FC126-3E90-4074-B62A-3B4FF8786AE4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
 			<string>Africa-emiqvwzhyucmbxdpjpmhlvponvna</string>
 			<key>timeStartedRecording</key>
-			<real>670650178.67803705</real>
+			<real>670661519.36225796</real>
 			<key>timeStoppedRecording</key>
-			<real>670650181.07061994</real>
+			<real>670661521.73147202</real>
 			<key>title</key>
 			<string>Build target Africa</string>
 			<key>uniqueIdentifier</key>
-			<string>6D6BC5AA-8F78-4FBC-98CA-50DE3D1AECB0</string>
+			<string>647FC126-3E90-4074-B62A-3B4FF8786AE4</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

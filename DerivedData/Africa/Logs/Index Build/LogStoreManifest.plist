@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0426CF4F-2DEB-4CF3-884C-81F7A866B93F</string>
 		</dict>
+		<key>08972C44-F09B-4D2D-BA69-46300C54DF07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>08972C44-F09B-4D2D-BA69-46300C54DF07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660619.15628695</real>
+			<key>timeStoppedRecording</key>
+			<real>670660619.16941202</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>08972C44-F09B-4D2D-BA69-46300C54DF07</string>
+		</dict>
 		<key>09D427C6-D61A-4AE2-8598-690529511FC3</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +107,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>09D427C6-D61A-4AE2-8598-690529511FC3</string>
+		</dict>
+		<key>0CB3A74D-1F19-45FC-8710-5CAA4A9C731D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0CB3A74D-1F19-45FC-8710-5CAA4A9C731D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659920.56108701</real>
+			<key>timeStoppedRecording</key>
+			<real>670659920.59284794</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0CB3A74D-1F19-45FC-8710-5CAA4A9C731D</string>
 		</dict>
 		<key>126EA296-580C-4E94-888C-9CDB458412F8</key>
 		<dict>
@@ -108,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>126EA296-580C-4E94-888C-9CDB458412F8</string>
 		</dict>
+		<key>12C40449-460A-4BBD-87C1-918B1D49C7E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>12C40449-460A-4BBD-87C1-918B1D49C7E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660827.18108904</real>
+			<key>timeStoppedRecording</key>
+			<real>670660827.19811702</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>12C40449-460A-4BBD-87C1-918B1D49C7E3</string>
+		</dict>
 		<key>12E366CF-2337-486F-8967-0754B61A7177</key>
 		<dict>
 			<key>className</key>
@@ -141,6 +243,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>12E366CF-2337-486F-8967-0754B61A7177</string>
+		</dict>
+		<key>130E3966-6F49-424C-8E72-639F061F9CA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>130E3966-6F49-424C-8E72-639F061F9CA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660001.61708498</real>
+			<key>timeStoppedRecording</key>
+			<real>670660001.63484502</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>130E3966-6F49-424C-8E72-639F061F9CA0</string>
 		</dict>
 		<key>15C4BFEF-ADD0-44C4-9E4B-5872CEFC6B97</key>
 		<dict>
@@ -210,6 +346,74 @@
 			<key>uniqueIdentifier</key>
 			<string>16EEE3AB-245D-470A-94A9-245ADDD0DDED</string>
 		</dict>
+		<key>19E141FD-0821-41CA-A05F-D38E7D859610</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>19E141FD-0821-41CA-A05F-D38E7D859610.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661015.48768795</real>
+			<key>timeStoppedRecording</key>
+			<real>670661015.55047703</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>19E141FD-0821-41CA-A05F-D38E7D859610</string>
+		</dict>
+		<key>1C2C1998-A68E-42D0-AF3C-3E752BABAD40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1C2C1998-A68E-42D0-AF3C-3E752BABAD40.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660436.34008205</real>
+			<key>timeStoppedRecording</key>
+			<real>670660436.40572202</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1C2C1998-A68E-42D0-AF3C-3E752BABAD40</string>
+		</dict>
 		<key>25495303-E3FC-41FF-8768-F7791C66385C</key>
 		<dict>
 			<key>className</key>
@@ -243,6 +447,74 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>25495303-E3FC-41FF-8768-F7791C66385C</string>
+		</dict>
+		<key>25EF2E30-407C-44B4-8291-97EF1C296B3E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>25EF2E30-407C-44B4-8291-97EF1C296B3E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659944.87993896</real>
+			<key>timeStoppedRecording</key>
+			<real>670659944.89768696</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>25EF2E30-407C-44B4-8291-97EF1C296B3E</string>
+		</dict>
+		<key>262C2883-63DC-4331-A9A2-6FD350CD631B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>262C2883-63DC-4331-A9A2-6FD350CD631B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661179.54284596</real>
+			<key>timeStoppedRecording</key>
+			<real>670661179.55866694</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>262C2883-63DC-4331-A9A2-6FD350CD631B</string>
 		</dict>
 		<key>265A872F-2474-47CA-810F-F2FA19DBA9FC</key>
 		<dict>
@@ -346,6 +618,40 @@
 			<key>uniqueIdentifier</key>
 			<string>3025EA8A-4C59-4A3E-90A5-85EF57C30121</string>
 		</dict>
+		<key>303C28C6-24BD-4021-945F-CE04648D1227</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>303C28C6-24BD-4021-945F-CE04648D1227.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660569.99059296</real>
+			<key>timeStoppedRecording</key>
+			<real>670660570.07188904</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>303C28C6-24BD-4021-945F-CE04648D1227</string>
+		</dict>
 		<key>33940329-B746-4EBF-87DA-2B8E34814168</key>
 		<dict>
 			<key>className</key>
@@ -447,6 +753,108 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>347141FB-2F5C-47B3-BE76-64C5812C1570</string>
+		</dict>
+		<key>36E8943B-43B0-4D42-A428-5D78B303631A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>36E8943B-43B0-4D42-A428-5D78B303631A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659877.44376302</real>
+			<key>timeStoppedRecording</key>
+			<real>670659877.56604898</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>36E8943B-43B0-4D42-A428-5D78B303631A</string>
+		</dict>
+		<key>3843AB5B-67FC-46FC-9AE4-9DBDE3005130</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3843AB5B-67FC-46FC-9AE4-9DBDE3005130.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660326.41487801</real>
+			<key>timeStoppedRecording</key>
+			<real>670660326.511235</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3843AB5B-67FC-46FC-9AE4-9DBDE3005130</string>
+		</dict>
+		<key>395A5DA4-A350-43CE-A161-7C47E4BBEDD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>395A5DA4-A350-43CE-A161-7C47E4BBEDD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661506.28617704</real>
+			<key>timeStoppedRecording</key>
+			<real>670661506.30513501</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>395A5DA4-A350-43CE-A161-7C47E4BBEDD4</string>
 		</dict>
 		<key>3B726113-6D36-4FA8-ACC1-E913EE9D4B4A</key>
 		<dict>
@@ -618,6 +1026,40 @@
 			<key>uniqueIdentifier</key>
 			<string>42284846-4370-4CF3-BF80-F5AF3018CE42</string>
 		</dict>
+		<key>4319F135-2C63-4B96-B456-F2E6D3B8299B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4319F135-2C63-4B96-B456-F2E6D3B8299B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660341.27373695</real>
+			<key>timeStoppedRecording</key>
+			<real>670660341.30384004</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4319F135-2C63-4B96-B456-F2E6D3B8299B</string>
+		</dict>
 		<key>46A9206D-982D-41FE-BFD6-B7DF40E74729</key>
 		<dict>
 			<key>className</key>
@@ -652,6 +1094,74 @@
 			<key>uniqueIdentifier</key>
 			<string>46A9206D-982D-41FE-BFD6-B7DF40E74729</string>
 		</dict>
+		<key>4B6CC55A-4299-4D34-9A8D-DAAA08028F62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4B6CC55A-4299-4D34-9A8D-DAAA08028F62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661090.65556204</real>
+			<key>timeStoppedRecording</key>
+			<real>670661090.66710103</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4B6CC55A-4299-4D34-9A8D-DAAA08028F62</string>
+		</dict>
+		<key>4C2D0F5E-6B2B-4EFA-90A0-62E53861773E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4C2D0F5E-6B2B-4EFA-90A0-62E53861773E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660546.06255496</real>
+			<key>timeStoppedRecording</key>
+			<real>670660546.07586396</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4C2D0F5E-6B2B-4EFA-90A0-62E53861773E</string>
+		</dict>
 		<key>4D86C520-3669-4AF3-B402-2B0BDB4D6023</key>
 		<dict>
 			<key>className</key>
@@ -685,6 +1195,74 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>4D86C520-3669-4AF3-B402-2B0BDB4D6023</string>
+		</dict>
+		<key>51319A39-8A30-4610-9F1C-F85AD59A8806</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>51319A39-8A30-4610-9F1C-F85AD59A8806.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660772.16161203</real>
+			<key>timeStoppedRecording</key>
+			<real>670660772.19988096</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>51319A39-8A30-4610-9F1C-F85AD59A8806</string>
+		</dict>
+		<key>5201B28A-45B8-4BE6-83CA-6D65FF676D49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5201B28A-45B8-4BE6-83CA-6D65FF676D49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660041.17896104</real>
+			<key>timeStoppedRecording</key>
+			<real>670660041.20061004</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5201B28A-45B8-4BE6-83CA-6D65FF676D49</string>
 		</dict>
 		<key>5552DB63-811E-4024-9C89-B78AB584A62F</key>
 		<dict>
@@ -822,6 +1400,142 @@
 			<key>uniqueIdentifier</key>
 			<string>5EE85FFC-2A36-47C7-B540-B9A32EA275EC</string>
 		</dict>
+		<key>61DD3B6C-FCB7-47B3-8B9D-2E0153856662</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>61DD3B6C-FCB7-47B3-8B9D-2E0153856662.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660193.88395798</real>
+			<key>timeStoppedRecording</key>
+			<real>670660193.94817305</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>61DD3B6C-FCB7-47B3-8B9D-2E0153856662</string>
+		</dict>
+		<key>620510C9-D021-4CDF-A433-1E8A595D9FF2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>620510C9-D021-4CDF-A433-1E8A595D9FF2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661088.87523699</real>
+			<key>timeStoppedRecording</key>
+			<real>670661088.89240599</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>620510C9-D021-4CDF-A433-1E8A595D9FF2</string>
+		</dict>
+		<key>653FE5C5-909A-4926-AE05-8317A8166C6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>653FE5C5-909A-4926-AE05-8317A8166C6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660627.20204198</real>
+			<key>timeStoppedRecording</key>
+			<real>670660627.22068501</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>653FE5C5-909A-4926-AE05-8317A8166C6E</string>
+		</dict>
+		<key>6624E4A2-D7E4-46DC-903A-9C53772938AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6624E4A2-D7E4-46DC-903A-9C53772938AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661085.16344595</real>
+			<key>timeStoppedRecording</key>
+			<real>670661085.22601902</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6624E4A2-D7E4-46DC-903A-9C53772938AF</string>
+		</dict>
 		<key>67D3CF07-F808-494D-931F-6AE78CD7BA04</key>
 		<dict>
 			<key>className</key>
@@ -924,6 +1638,108 @@
 			<key>uniqueIdentifier</key>
 			<string>6CA4BC9D-7CD0-48A9-BCE1-821DDC7EBB19</string>
 		</dict>
+		<key>6F78F7BC-AFE3-4732-B157-85A1B9582EB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6F78F7BC-AFE3-4732-B157-85A1B9582EB0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659985.91896498</real>
+			<key>timeStoppedRecording</key>
+			<real>670659985.93566096</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6F78F7BC-AFE3-4732-B157-85A1B9582EB0</string>
+		</dict>
+		<key>7376DB1A-BE26-46FB-A6CD-3C7069498613</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7376DB1A-BE26-46FB-A6CD-3C7069498613.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660763.26706696</real>
+			<key>timeStoppedRecording</key>
+			<real>670660763.28206694</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7376DB1A-BE26-46FB-A6CD-3C7069498613</string>
+		</dict>
+		<key>7986ACF7-4797-4DCE-9035-6A9096E48294</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7986ACF7-4797-4DCE-9035-6A9096E48294.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661399.01707697</real>
+			<key>timeStoppedRecording</key>
+			<real>670661399.03407598</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7986ACF7-4797-4DCE-9035-6A9096E48294</string>
+		</dict>
 		<key>81B82CA5-1662-44EE-B556-D3194A91499E</key>
 		<dict>
 			<key>className</key>
@@ -958,6 +1774,74 @@
 			<key>uniqueIdentifier</key>
 			<string>81B82CA5-1662-44EE-B556-D3194A91499E</string>
 		</dict>
+		<key>8237E35A-F362-4E54-BB08-B2C26E43DBFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8237E35A-F362-4E54-BB08-B2C26E43DBFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660590.63970804</real>
+			<key>timeStoppedRecording</key>
+			<real>670660590.660568</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8237E35A-F362-4E54-BB08-B2C26E43DBFA</string>
+		</dict>
+		<key>8318CE5A-11FF-4572-B88F-081B6B89EB60</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8318CE5A-11FF-4572-B88F-081B6B89EB60.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660448.45000005</real>
+			<key>timeStoppedRecording</key>
+			<real>670660448.46847701</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8318CE5A-11FF-4572-B88F-081B6B89EB60</string>
+		</dict>
 		<key>83CA8403-4A2E-4714-9E37-71CAAEFD4BAC</key>
 		<dict>
 			<key>className</key>
@@ -991,6 +1875,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>83CA8403-4A2E-4714-9E37-71CAAEFD4BAC</string>
+		</dict>
+		<key>9431A523-6328-4454-BF98-5BB7AE76DA58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9431A523-6328-4454-BF98-5BB7AE76DA58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659630.02232504</real>
+			<key>timeStoppedRecording</key>
+			<real>670659630.09327197</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9431A523-6328-4454-BF98-5BB7AE76DA58</string>
 		</dict>
 		<key>9C12E522-74B6-492E-8185-128832770956</key>
 		<dict>
@@ -1060,6 +1978,40 @@
 			<key>uniqueIdentifier</key>
 			<string>9E6753D1-DDB9-4091-9418-D557A52C9059</string>
 		</dict>
+		<key>9F8F1E09-9D23-4457-9442-BC677F03CF1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9F8F1E09-9D23-4457-9442-BC677F03CF1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661517.32333398</real>
+			<key>timeStoppedRecording</key>
+			<real>670661517.33922195</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9F8F1E09-9D23-4457-9442-BC677F03CF1B</string>
+		</dict>
 		<key>A09EC9E1-D6D4-439E-A27F-6ACF72F17C6F</key>
 		<dict>
 			<key>className</key>
@@ -1094,6 +2046,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A09EC9E1-D6D4-439E-A27F-6ACF72F17C6F</string>
 		</dict>
+		<key>A51ADD2B-2953-4F15-A517-D23FA56C453A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A51ADD2B-2953-4F15-A517-D23FA56C453A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660677.28029394</real>
+			<key>timeStoppedRecording</key>
+			<real>670660677.31928098</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A51ADD2B-2953-4F15-A517-D23FA56C453A</string>
+		</dict>
 		<key>A64A4644-7CEF-4EBA-9B45-4F88FE830FCD</key>
 		<dict>
 			<key>className</key>
@@ -1127,6 +2113,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>A64A4644-7CEF-4EBA-9B45-4F88FE830FCD</string>
+		</dict>
+		<key>A6FBB211-9AB0-4C72-9D03-9B72D1880DFF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A6FBB211-9AB0-4C72-9D03-9B72D1880DFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659986.97535205</real>
+			<key>timeStoppedRecording</key>
+			<real>670659986.99259698</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A6FBB211-9AB0-4C72-9D03-9B72D1880DFF</string>
 		</dict>
 		<key>A7549293-23A2-499D-B9AF-6ABCA2DE0D4B</key>
 		<dict>
@@ -1298,6 +2318,108 @@
 			<key>uniqueIdentifier</key>
 			<string>AE0F857B-36EF-45A9-8624-80EB92DE5DD2</string>
 		</dict>
+		<key>AE73760A-71CF-48CF-AFB7-EBE3200089DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AE73760A-71CF-48CF-AFB7-EBE3200089DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659968.49282002</real>
+			<key>timeStoppedRecording</key>
+			<real>670659968.51176095</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AE73760A-71CF-48CF-AFB7-EBE3200089DB</string>
+		</dict>
+		<key>B0424E1D-B018-47CE-9DDF-35D13483C2C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B0424E1D-B018-47CE-9DDF-35D13483C2C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660211.65242898</real>
+			<key>timeStoppedRecording</key>
+			<real>670660211.66961706</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B0424E1D-B018-47CE-9DDF-35D13483C2C0</string>
+		</dict>
+		<key>B3197CAA-BE50-4D98-A880-9A1C2EB6E3F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B3197CAA-BE50-4D98-A880-9A1C2EB6E3F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661377.77428997</real>
+			<key>timeStoppedRecording</key>
+			<real>670661377.80147398</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B3197CAA-BE50-4D98-A880-9A1C2EB6E3F4</string>
+		</dict>
 		<key>B4726E0F-BF41-4764-BBF6-D77F5F451051</key>
 		<dict>
 			<key>className</key>
@@ -1365,6 +2487,142 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>B9DE5849-BD8A-4DE1-A0DF-2483CF474622</string>
+		</dict>
+		<key>BDF85F17-8526-4BD3-80A7-657F596442DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BDF85F17-8526-4BD3-80A7-657F596442DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661171.27673995</real>
+			<key>timeStoppedRecording</key>
+			<real>670661171.28921902</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BDF85F17-8526-4BD3-80A7-657F596442DC</string>
+		</dict>
+		<key>C0072965-756E-4261-9B5F-A7801CAAD081</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C0072965-756E-4261-9B5F-A7801CAAD081.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660873.00923502</real>
+			<key>timeStoppedRecording</key>
+			<real>670660873.03613198</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C0072965-756E-4261-9B5F-A7801CAAD081</string>
+		</dict>
+		<key>C0138A06-09B8-4083-8647-8E6C1F0716C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C0138A06-09B8-4083-8647-8E6C1F0716C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661337.992064</real>
+			<key>timeStoppedRecording</key>
+			<real>670661338.13092399</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C0138A06-09B8-4083-8647-8E6C1F0716C1</string>
+		</dict>
+		<key>C1307D02-FE06-4593-A3BA-75BE4A849153</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C1307D02-FE06-4593-A3BA-75BE4A849153.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660226.771456</real>
+			<key>timeStoppedRecording</key>
+			<real>670660226.80376995</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C1307D02-FE06-4593-A3BA-75BE4A849153</string>
 		</dict>
 		<key>C1EC4529-6596-4A8D-8999-B07C2F561D76</key>
 		<dict>
@@ -1468,6 +2726,108 @@
 			<key>uniqueIdentifier</key>
 			<string>C360E15A-049B-4B02-B0C3-A7BD3BCE8E68</string>
 		</dict>
+		<key>C39ADD00-6003-4243-B437-5017A8FC3F08</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C39ADD00-6003-4243-B437-5017A8FC3F08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660415.18512702</real>
+			<key>timeStoppedRecording</key>
+			<real>670660415.21809995</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C39ADD00-6003-4243-B437-5017A8FC3F08</string>
+		</dict>
+		<key>C4AFDF0D-F6FC-4307-AAF7-0F4EA423D3B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C4AFDF0D-F6FC-4307-AAF7-0F4EA423D3B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670659813.19929099</real>
+			<key>timeStoppedRecording</key>
+			<real>670659813.25507605</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C4AFDF0D-F6FC-4307-AAF7-0F4EA423D3B7</string>
+		</dict>
+		<key>C4C6FCA7-4707-4852-BE77-B950769C0033</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C4C6FCA7-4707-4852-BE77-B950769C0033.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660836.72855103</real>
+			<key>timeStoppedRecording</key>
+			<real>670660836.81450701</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C4C6FCA7-4707-4852-BE77-B950769C0033</string>
+		</dict>
 		<key>C4F083A7-971B-4259-9254-3CCC1E3B0247</key>
 		<dict>
 			<key>className</key>
@@ -1502,6 +2862,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C4F083A7-971B-4259-9254-3CCC1E3B0247</string>
 		</dict>
+		<key>C500786A-9882-4D49-BBAB-D3B6DF2FA116</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C500786A-9882-4D49-BBAB-D3B6DF2FA116.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661031.96728301</real>
+			<key>timeStoppedRecording</key>
+			<real>670661031.98450804</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C500786A-9882-4D49-BBAB-D3B6DF2FA116</string>
+		</dict>
 		<key>C53245CA-4815-4B8A-933D-9FC84C0FCEDC</key>
 		<dict>
 			<key>className</key>
@@ -1535,6 +2929,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>C53245CA-4815-4B8A-933D-9FC84C0FCEDC</string>
+		</dict>
+		<key>C5A3E57C-24D0-47BF-A68E-77B14DA230C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C5A3E57C-24D0-47BF-A68E-77B14DA230C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660027.06871104</real>
+			<key>timeStoppedRecording</key>
+			<real>670660027.09566402</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C5A3E57C-24D0-47BF-A68E-77B14DA230C9</string>
 		</dict>
 		<key>CA0FE573-8929-4FD4-9368-449CF7496FA7</key>
 		<dict>
@@ -1604,6 +3032,74 @@
 			<key>uniqueIdentifier</key>
 			<string>CAA383D2-6675-405F-8858-620F590CC076</string>
 		</dict>
+		<key>D0528BD2-F5AC-473C-A92E-98B2691D9749</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D0528BD2-F5AC-473C-A92E-98B2691D9749.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660269.54978395</real>
+			<key>timeStoppedRecording</key>
+			<real>670660269.59649003</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D0528BD2-F5AC-473C-A92E-98B2691D9749</string>
+		</dict>
+		<key>D1581FF2-69AC-4FF0-8B69-333A384C0668</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D1581FF2-69AC-4FF0-8B69-333A384C0668.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660840.61881399</real>
+			<key>timeStoppedRecording</key>
+			<real>670660840.64270794</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D1581FF2-69AC-4FF0-8B69-333A384C0668</string>
+		</dict>
 		<key>D2C445A9-3472-4BD4-8888-01FFBA6B395C</key>
 		<dict>
 			<key>className</key>
@@ -1637,6 +3133,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>D2C445A9-3472-4BD4-8888-01FFBA6B395C</string>
+		</dict>
+		<key>D44FDE64-51AD-43C2-A95E-98ED8ACC1FA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D44FDE64-51AD-43C2-A95E-98ED8ACC1FA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661499.31572199</real>
+			<key>timeStoppedRecording</key>
+			<real>670661499.38633299</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D44FDE64-51AD-43C2-A95E-98ED8ACC1FA0</string>
 		</dict>
 		<key>D7F990AB-1D47-4648-BC18-1C0B627399BD</key>
 		<dict>
@@ -1706,6 +3236,108 @@
 			<key>uniqueIdentifier</key>
 			<string>DE747292-FCDC-45D8-A8A6-A4E2CEEC5F3F</string>
 		</dict>
+		<key>DEBE9198-DA73-4097-B616-55AB01EFCE0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DEBE9198-DA73-4097-B616-55AB01EFCE0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>670660412.57755196</real>
+			<key>timeStoppedRecording</key>
+			<real>670660415.19909704</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>DEBE9198-DA73-4097-B616-55AB01EFCE0B</string>
+		</dict>
+		<key>DFD8C96F-75CD-467F-A466-208580E0D06D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DFD8C96F-75CD-467F-A466-208580E0D06D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660727.68990898</real>
+			<key>timeStoppedRecording</key>
+			<real>670660727.71966004</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DFD8C96F-75CD-467F-A466-208580E0D06D</string>
+		</dict>
+		<key>E250F3AC-0B98-4CAB-B2A9-0C3245D844BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E250F3AC-0B98-4CAB-B2A9-0C3245D844BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661185.74720001</real>
+			<key>timeStoppedRecording</key>
+			<real>670661185.75779903</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E250F3AC-0B98-4CAB-B2A9-0C3245D844BD</string>
+		</dict>
 		<key>E2FD9F0E-D0B2-4A1F-82A4-9229456AAB1F</key>
 		<dict>
 			<key>className</key>
@@ -1739,6 +3371,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>E2FD9F0E-D0B2-4A1F-82A4-9229456AAB1F</string>
+		</dict>
+		<key>E3D7C487-55CC-44D2-A9D2-BA328EFC20A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E3D7C487-55CC-44D2-A9D2-BA328EFC20A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>670660412.73929596</real>
+			<key>timeStoppedRecording</key>
+			<real>670660415.18225098</real>
+			<key>title</key>
+			<string>Africa Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>E3D7C487-55CC-44D2-A9D2-BA328EFC20A0</string>
 		</dict>
 		<key>E50AEE48-7F5E-4837-BADD-EC13F999FFFB</key>
 		<dict>
@@ -1807,6 +3473,40 @@
 			<string>Africa Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>E82362FD-94EC-479A-853C-78301E04607D</string>
+		</dict>
+		<key>E9FE3DC0-A401-45B5-9593-5E955DE56F9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E9FE3DC0-A401-45B5-9593-5E955DE56F9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660533.86557698</real>
+			<key>timeStoppedRecording</key>
+			<real>670660533.96898305</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E9FE3DC0-A401-45B5-9593-5E955DE56F9A</string>
 		</dict>
 		<key>EE7C1989-B845-4C40-8F95-B2693E77EAB4</key>
 		<dict>
@@ -1944,6 +3644,74 @@
 			<key>uniqueIdentifier</key>
 			<string>F56AF207-800F-46D5-89BC-95B5641B568B</string>
 		</dict>
+		<key>F94DEEC9-584F-4A8F-BCDA-AA5E8847B715</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F94DEEC9-584F-4A8F-BCDA-AA5E8847B715.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661142.72788203</real>
+			<key>timeStoppedRecording</key>
+			<real>670661142.75726295</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F94DEEC9-584F-4A8F-BCDA-AA5E8847B715</string>
+		</dict>
+		<key>FAE24D00-B88D-4E57-BF38-0DA49A19B74F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FAE24D00-B88D-4E57-BF38-0DA49A19B74F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660208.94962502</real>
+			<key>timeStoppedRecording</key>
+			<real>670660209.05311799</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FAE24D00-B88D-4E57-BF38-0DA49A19B74F</string>
+		</dict>
 		<key>FAEEEC81-7B9A-4F5C-9591-E3B6D58F27D7</key>
 		<dict>
 			<key>className</key>
@@ -2011,6 +3779,74 @@
 			<string>Workspace Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>FB263454-CD72-4898-B7E9-923E3F2717FD</string>
+		</dict>
+		<key>FC67DEA5-5B5B-4D54-AA63-C52C855E8733</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FC67DEA5-5B5B-4D54-AA63-C52C855E8733.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670661020.37821603</real>
+			<key>timeStoppedRecording</key>
+			<real>670661020.38986897</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FC67DEA5-5B5B-4D54-AA63-C52C855E8733</string>
+		</dict>
+		<key>FF768D88-AC93-44D7-A479-01BE3468F816</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FF768D88-AC93-44D7-A479-01BE3468F816.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Africa Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>670660297.37107098</real>
+			<key>timeStoppedRecording</key>
+			<real>670660297.45292795</real>
+			<key>title</key>
+			<string>Africa Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FF768D88-AC93-44D7-A479-01BE3468F816</string>
 		</dict>
 	</dict>
 </dict>
