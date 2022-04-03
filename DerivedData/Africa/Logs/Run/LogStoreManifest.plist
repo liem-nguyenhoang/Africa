@@ -40,6 +40,34 @@
 			<key>uniqueIdentifier</key>
 			<string>97561F0C-30FE-4C58-9E26-8063A123C156</string>
 		</dict>
+		<key>B00EA4D4-BB42-49A5-8F79-F8C4FF400719</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B00EA4D4-BB42-49A5-8F79-F8C4FF400719.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Run com.liemnh.Africa.Stickers</string>
+			<key>timeStartedRecording</key>
+			<real>670661952.98807895</real>
+			<key>timeStoppedRecording</key>
+			<real>670661970.794379</real>
+			<key>title</key>
+			<string>Run com.liemnh.Africa.Stickers</string>
+			<key>uniqueIdentifier</key>
+			<string>B00EA4D4-BB42-49A5-8F79-F8C4FF400719</string>
+		</dict>
 		<key>B389F8E8-1D4F-4FDB-BCFC-44D5F0A6A8F6</key>
 		<dict>
 			<key>className</key>
@@ -74,6 +102,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B389F8E8-1D4F-4FDB-BCFC-44D5F0A6A8F6</string>
 		</dict>
+		<key>BAFE6650-5576-4A2D-9FA1-6DB063AC7747</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BAFE6650-5576-4A2D-9FA1-6DB063AC7747.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Africa project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stickers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run com.apple.MobileSMS</string>
+			<key>timeStartedRecording</key>
+			<real>670661977.29826999</real>
+			<key>timeStoppedRecording</key>
+			<real>670661991.21594298</real>
+			<key>title</key>
+			<string>Run com.apple.MobileSMS</string>
+			<key>uniqueIdentifier</key>
+			<string>BAFE6650-5576-4A2D-9FA1-6DB063AC7747</string>
+		</dict>
 		<key>C6A1F6BE-B508-403E-90C3-8D2998D36DBC</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +169,102 @@
 			<string>Run Africa</string>
 			<key>uniqueIdentifier</key>
 			<string>C6A1F6BE-B508-403E-90C3-8D2998D36DBC</string>
+		</dict>
+		<key>E2848FDC-5350-42A8-B64A-FD4938C08F59</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E2848FDC-5350-42A8-B64A-FD4938C08F59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Africa project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stickers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run com.apple.MobileSMS</string>
+			<key>timeStartedRecording</key>
+			<real>670661948.55214298</real>
+			<key>timeStoppedRecording</key>
+			<real>670661970.90068805</real>
+			<key>title</key>
+			<string>Run com.apple.MobileSMS</string>
+			<key>uniqueIdentifier</key>
+			<string>E2848FDC-5350-42A8-B64A-FD4938C08F59</string>
+		</dict>
+		<key>E9BFBCFA-0020-46A5-8851-B4E32C21658E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E9BFBCFA-0020-46A5-8851-B4E32C21658E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Run com.liemnh.Africa.Stickers</string>
+			<key>timeStartedRecording</key>
+			<real>670661979.16526496</real>
+			<key>timeStoppedRecording</key>
+			<real>670661991.15858603</real>
+			<key>title</key>
+			<string>Run com.liemnh.Africa.Stickers</string>
+			<key>uniqueIdentifier</key>
+			<string>E9BFBCFA-0020-46A5-8851-B4E32C21658E</string>
+		</dict>
+		<key>EBBBC4E8-A4DC-4EB7-884F-1AEDC4213EF7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EBBBC4E8-A4DC-4EB7-884F-1AEDC4213EF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Africa project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Africa</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Africa</string>
+			<key>timeStartedRecording</key>
+			<real>670650178.52859402</real>
+			<key>timeStoppedRecording</key>
+			<real>670661949.785447</real>
+			<key>title</key>
+			<string>Run Africa</string>
+			<key>uniqueIdentifier</key>
+			<string>EBBBC4E8-A4DC-4EB7-884F-1AEDC4213EF7</string>
 		</dict>
 	</dict>
 </dict>

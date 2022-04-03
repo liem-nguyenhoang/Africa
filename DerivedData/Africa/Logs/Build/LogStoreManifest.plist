@@ -414,6 +414,74 @@
 			<key>uniqueIdentifier</key>
 			<string>56E15F1A-8C2B-492A-9410-3F57756095C1</string>
 		</dict>
+		<key>5CE58226-1174-47AD-8738-EE181F567405</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CE58226-1174-47AD-8738-EE181F567405.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Africa project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stickers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stickers</string>
+			<key>timeStartedRecording</key>
+			<real>670661974.58428001</real>
+			<key>timeStoppedRecording</key>
+			<real>670661977.29361498</real>
+			<key>title</key>
+			<string>Build Stickers</string>
+			<key>uniqueIdentifier</key>
+			<string>5CE58226-1174-47AD-8738-EE181F567405</string>
+		</dict>
+		<key>6AF10566-32AB-4448-A480-AE1E0754A990</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6AF10566-32AB-4448-A480-AE1E0754A990.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Africa project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Stickers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Stickers</string>
+			<key>timeStartedRecording</key>
+			<real>670661941.73031902</real>
+			<key>timeStoppedRecording</key>
+			<real>670661948.54494298</real>
+			<key>title</key>
+			<string>Build Stickers</string>
+			<key>uniqueIdentifier</key>
+			<string>6AF10566-32AB-4448-A480-AE1E0754A990</string>
+		</dict>
 		<key>7DAEA939-ED52-4B25-A78D-3046F4C146AF</key>
 		<dict>
 			<key>className</key>
