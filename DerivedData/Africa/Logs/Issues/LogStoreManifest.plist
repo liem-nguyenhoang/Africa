@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>741EA303-2286-4D26-A034-FB6E25C815A0</key>
+		<key>476C345A-A286-4761-A547-3E4C4E88A3F7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>741EA303-2286-4D26-A034-FB6E25C815A0.xcactivitylog</string>
+			<string>476C345A-A286-4761-A547-3E4C4E88A3F7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,41 +26,13 @@
 			<key>signature</key>
 			<string>Africa-emiqvwzhyucmbxdpjpmhlvponvna</string>
 			<key>timeStartedRecording</key>
-			<real>670661974.78917098</real>
+			<real>670663420.65410805</real>
 			<key>timeStoppedRecording</key>
-			<real>670661977.28314197</real>
+			<real>670663424.57343805</real>
 			<key>title</key>
 			<string>Build target Africa</string>
 			<key>uniqueIdentifier</key>
-			<string>741EA303-2286-4D26-A034-FB6E25C815A0</string>
-		</dict>
-		<key>90A0FCAA-AA3D-47B8-9636-990014DDE1C4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
-			<key>fileName</key>
-			<string>90A0FCAA-AA3D-47B8-9636-990014DDE1C4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Stickers-emiqvwzhyucmbxdpjpmhlvponvna</string>
-			<key>timeStartedRecording</key>
-			<real>670661944.23063302</real>
-			<key>timeStoppedRecording</key>
-			<real>670661946.12866604</real>
-			<key>title</key>
-			<string>Build target Stickers</string>
-			<key>uniqueIdentifier</key>
-			<string>90A0FCAA-AA3D-47B8-9636-990014DDE1C4</string>
+			<string>476C345A-A286-4761-A547-3E4C4E88A3F7</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
